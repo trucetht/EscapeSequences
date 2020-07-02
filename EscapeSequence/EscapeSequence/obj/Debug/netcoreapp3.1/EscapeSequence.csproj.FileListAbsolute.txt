@@ -1,0 +1,13 @@
+C:\Users\trevo\Desktop\Projects\EscapeSequence\EscapeSequence\bin\Debug\netcoreapp3.1\EscapeSequence.exe
+C:\Users\trevo\Desktop\Projects\EscapeSequence\EscapeSequence\bin\Debug\netcoreapp3.1\EscapeSequence.deps.json
+C:\Users\trevo\Desktop\Projects\EscapeSequence\EscapeSequence\bin\Debug\netcoreapp3.1\EscapeSequence.runtimeconfig.json
+C:\Users\trevo\Desktop\Projects\EscapeSequence\EscapeSequence\bin\Debug\netcoreapp3.1\EscapeSequence.runtimeconfig.dev.json
+C:\Users\trevo\Desktop\Projects\EscapeSequence\EscapeSequence\bin\Debug\netcoreapp3.1\EscapeSequence.dll
+C:\Users\trevo\Desktop\Projects\EscapeSequence\EscapeSequence\bin\Debug\netcoreapp3.1\EscapeSequence.pdb
+C:\Users\trevo\Desktop\Projects\EscapeSequence\EscapeSequence\obj\Debug\netcoreapp3.1\EscapeSequence.csprojAssemblyReference.cache
+C:\Users\trevo\Desktop\Projects\EscapeSequence\EscapeSequence\obj\Debug\netcoreapp3.1\EscapeSequence.AssemblyInfoInputs.cache
+C:\Users\trevo\Desktop\Projects\EscapeSequence\EscapeSequence\obj\Debug\netcoreapp3.1\EscapeSequence.AssemblyInfo.cs
+C:\Users\trevo\Desktop\Projects\EscapeSequence\EscapeSequence\obj\Debug\netcoreapp3.1\EscapeSequence.csproj.CoreCompileInputs.cache
+C:\Users\trevo\Desktop\Projects\EscapeSequence\EscapeSequence\obj\Debug\netcoreapp3.1\EscapeSequence.dll
+C:\Users\trevo\Desktop\Projects\EscapeSequence\EscapeSequence\obj\Debug\netcoreapp3.1\EscapeSequence.pdb
+C:\Users\trevo\Desktop\Projects\EscapeSequence\EscapeSequence\obj\Debug\netcoreapp3.1\EscapeSequence.genruntimeconfig.cache
